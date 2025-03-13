@@ -1,2 +1,5 @@
 # Flappy-Bird-Game
-<img width="535" alt="Screenshot 2025-03-11 at 4 26 14 PM" src="https://github.com/user-attachments/assets/87a896cf-1e0e-4dc8-b138-cf98956be5b4" />
+
+
+https://github.com/user-attachments/assets/494c6244-b9ae-4662-811f-0a7bd92be6f4
+
